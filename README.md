@@ -1,6 +1,6 @@
 # 🏏 IPL Data Analysis — Internship Project
 
-## Bharat Cares × IBM Collaboration
+## Bharat Cares × IBM Collaboration 
 
 This project was developed as part of an **internship project with Bharat Cares in collaboration with IBM**.
 
